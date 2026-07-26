@@ -20,15 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpVerma31/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SankalpVerma31/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpVerma31/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpVerma31/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SankalpVerma31/LEETCODE/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
