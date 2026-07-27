@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SankalpVerma31/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
