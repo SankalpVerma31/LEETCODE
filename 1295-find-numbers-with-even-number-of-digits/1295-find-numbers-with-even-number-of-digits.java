@@ -1,15 +1,9 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int k=0;
         int len1=nums.length;
+        int k =0;
         for(int i =0;i<len1;i++){
-            int l=0;
-            int j=1;
-            while(j!=0){
-                j=nums[i]/10;
-                nums[i]=nums[i]/10;
-                l++;
-            }
+            int l=((int)Math.log10(nums[i]))-1;
             if((l%2)==0){
                 k++;
             }
