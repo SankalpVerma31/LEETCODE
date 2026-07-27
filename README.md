@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpVerma31/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SankalpVerma31/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SankalpVerma31/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
