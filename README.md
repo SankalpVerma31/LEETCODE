@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SankalpVerma31/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 ## Game Theory
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/SankalpVerma31/LEETCODE/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
