@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SankalpVerma31/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SankalpVerma31/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
