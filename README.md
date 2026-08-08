@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SankalpVerma31/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/SankalpVerma31/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
