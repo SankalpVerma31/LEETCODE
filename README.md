@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SankalpVerma31/LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SankalpVerma31/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SankalpVerma31/LEETCODE/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SankalpVerma31/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SankalpVerma31/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SankalpVerma31/LEETCODE/tree/master/0066-plus-one) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
