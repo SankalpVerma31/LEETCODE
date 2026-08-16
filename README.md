@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SankalpVerma31/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SankalpVerma31/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/SankalpVerma31/LEETCODE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/SankalpVerma31/LEETCODE/tree/master/0709-to-lower-case) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
