@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SankalpVerma31/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SankalpVerma31/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
@@ -175,4 +176,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SankalpVerma31/LEETCODE/tree/master/0067-add-binary) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
