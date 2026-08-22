@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SankalpVerma31/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
