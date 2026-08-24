@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SankalpVerma31/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
