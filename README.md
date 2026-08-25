@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0015-3sum) |
+| [0414-third-maximum-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SankalpVerma31/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
