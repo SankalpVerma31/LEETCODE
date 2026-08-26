@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SankalpVerma31/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SankalpVerma31/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SankalpVerma31/LEETCODE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/SankalpVerma31/LEETCODE/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/SankalpVerma31/LEETCODE/tree/master/2129-capitalize-the-title) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -222,5 +225,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
