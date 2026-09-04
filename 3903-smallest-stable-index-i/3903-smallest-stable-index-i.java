@@ -2,28 +2,27 @@ class Solution {
 
     public int firstStableIndex(int[] nums, int k) {
 
-        int end = nums.length;
+        int n = nums.length;
 
-        if (end == 0) {
+        if (n == 0) {
             return -1;
         }
 
-        int[] copy = Arrays.copyOf(nums, nums.length);
-        Arrays.sort(copy);
+        int[] suffixMin = new int[n];
+
+        suffixMin[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            suffixMin[i] = Math.min(nums[i], suffixMin[i + 1]);
+        }
 
         int max = nums[0];
 
-        for (int i = 0; i < end; i++) {
+        for (int i = 0; i < n; i++) {
 
             max = Math.max(max, nums[i]);
 
-            int min = nums[i];
-
-            for (int j = i; j < end; j++) {
-                min = Math.min(min, nums[j]);
-            }
-
-            if (max - min <= k) {
+            if (max - suffixMin[i] <= k) {
                 return i;
             }
         }
