@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SankalpVerma31/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0137-single-number-ii) |
+| [0461-hamming-distance](https://github.com/SankalpVerma31/LEETCODE/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SankalpVerma31/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
