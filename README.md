@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SankalpVerma31/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SankalpVerma31/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
