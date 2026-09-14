@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SankalpVerma31/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 ## Math
