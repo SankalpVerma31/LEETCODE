@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/SankalpVerma31/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SankalpVerma31/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SankalpVerma31/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
