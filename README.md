@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SankalpVerma31/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SankalpVerma31/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SankalpVerma31/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Array
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SankalpVerma31/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0344-reverse-string) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
