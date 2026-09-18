@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
