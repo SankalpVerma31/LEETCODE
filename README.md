@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1089-duplicate-zeros](https://github.com/SankalpVerma31/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/SankalpVerma31/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
