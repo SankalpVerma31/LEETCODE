@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SankalpVerma31/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/SankalpVerma31/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/SankalpVerma31/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/SankalpVerma31/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
