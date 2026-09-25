@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/SankalpVerma31/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
