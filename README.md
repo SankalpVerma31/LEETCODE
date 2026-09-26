@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0143-reorder-list) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
