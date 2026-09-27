@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SankalpVerma31/LEETCODE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/SankalpVerma31/LEETCODE/tree/master/0709-to-lower-case) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2129-capitalize-the-title](https://github.com/SankalpVerma31/LEETCODE/tree/master/2129-capitalize-the-title) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -248,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
