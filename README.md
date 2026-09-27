@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SankalpVerma31/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SankalpVerma31/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/SankalpVerma31/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0292-nim-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SankalpVerma31/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SankalpVerma31/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Array
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SankalpVerma31/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/SankalpVerma31/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/SankalpVerma31/LEETCODE/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SankalpVerma31/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
