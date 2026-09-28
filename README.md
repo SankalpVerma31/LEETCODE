@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SankalpVerma31/LEETCODE/tree/master/0709-to-lower-case) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/SankalpVerma31/LEETCODE/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/SankalpVerma31/LEETCODE/tree/master/2129-capitalize-the-title) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -257,11 +258,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/SankalpVerma31/LEETCODE/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
