@@ -1,40 +1,35 @@
 class Solution {
     public boolean isValid(String s) {
-        Deque<Character> stack = new ArrayDeque<>();
-
-        char array[] = s.toCharArray();
-
+        Stack<Character> stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
 
-            if ((array[i] == '(') || (array[i] == '[') || (array[i] == '{')) {
-                stack.push(array[i]);
+            if ((s.charAt(i)== '(') || (s.charAt(i) == '[') || (s.charAt(i)== '{')) {
+                stack.push(s.charAt(i));
             }
             else {
                 if (stack.isEmpty()) {
                     return false;
-                }
+                };
 
-                char temp = stack.pop();
-
-                if (array[i] == ')') {
-                    if (temp == '(') {
-                        continue;
+                if (s.charAt(i)== ')') {
+                    if (stack.peek()== '(') {
+                        stack.pop();
                     }
                     else {
                         return false;
                     }
                 }
-                else if (array[i] == '}') {
-                    if (temp == '{') {
-                        continue;
+                else if (s.charAt(i)== '}') {
+                    if (stack.peek()== '{') {
+                        stack.pop();
                     }
                     else {
                         return false;
                     }
                 }
-                else if (array[i] == ']') {
-                    if (temp == '[') {
-                        continue;
+                else if (s.charAt(i)== ']') {
+                    if (stack.peek()== '[') {
+                        stack.pop();
                     }
                     else {
                         return false;
@@ -42,7 +37,6 @@ class Solution {
                 }
             }
         }
-
         return stack.isEmpty();
     }
 }
