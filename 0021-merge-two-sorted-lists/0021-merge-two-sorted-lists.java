@@ -52,7 +52,8 @@ class Solution {
         else {
             temp.next = list2;
         }
+        ListNode hello = head1;
 
-        return head1;
+        return hello;
     }
 }
