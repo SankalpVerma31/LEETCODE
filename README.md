@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SankalpVerma31/LEETCODE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/SankalpVerma31/LEETCODE/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/SankalpVerma31/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/SankalpVerma31/LEETCODE/tree/master/1544-make-the-string-great) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
