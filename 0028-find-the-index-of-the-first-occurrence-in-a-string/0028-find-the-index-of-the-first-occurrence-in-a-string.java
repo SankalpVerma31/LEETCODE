@@ -27,7 +27,6 @@ class Solution {
                 i++;
             }
         }
-
         return -1;
     }
 }
