@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SankalpVerma31/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SankalpVerma31/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SankalpVerma31/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SankalpVerma31/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SankalpVerma31/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
@@ -383,4 +386,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SankalpVerma31/LEETCODE/tree/master/0100-same-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
