@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0292-nim-game) |
+| [0445-add-two-numbers-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/SankalpVerma31/LEETCODE/tree/master/0836-rectangle-overlap) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SankalpVerma31/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SankalpVerma31/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
