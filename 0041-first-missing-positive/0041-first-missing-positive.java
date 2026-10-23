@@ -10,7 +10,6 @@ class Solution {
             if(nums[a]>0&&nums[a]<=nums.length){
                 if(nums[a]==nums[nums[a]-1]){
                     a++;
-                    continue;
                 }
                 else{
                     swap(nums,a,nums[a]-1);
