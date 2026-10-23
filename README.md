@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SankalpVerma31/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SankalpVerma31/LEETCODE/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SankalpVerma31/LEETCODE/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/SankalpVerma31/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SankalpVerma31/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SankalpVerma31/LEETCODE/tree/master/0066-plus-one) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/SankalpVerma31/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/SankalpVerma31/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
