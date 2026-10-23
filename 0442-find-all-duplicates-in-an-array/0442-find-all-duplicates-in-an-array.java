@@ -23,12 +23,7 @@ class Solution {
                 continue;
             }
             else{
-                if(!list.contains(nums[i])){
-                    list.add(nums[i]);
-                }
-                else{
-                    continue;
-                }
+                list.add(nums[i]);
             }
         }
         return list;
