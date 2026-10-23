@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SankalpVerma31/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SankalpVerma31/LEETCODE/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/SankalpVerma31/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/SankalpVerma31/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/SankalpVerma31/LEETCODE/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SankalpVerma31/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SankalpVerma31/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -411,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
