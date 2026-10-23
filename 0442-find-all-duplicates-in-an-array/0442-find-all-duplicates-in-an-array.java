@@ -19,10 +19,7 @@ class Solution {
             }
         }
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==i+1){
-                continue;
-            }
-            else{
+            if(nums[i]!=i+1){
                 list.add(nums[i]);
             }
         }
