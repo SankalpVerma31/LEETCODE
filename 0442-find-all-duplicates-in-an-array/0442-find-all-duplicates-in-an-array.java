@@ -6,6 +6,9 @@ class Solution {
     }
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> list = new ArrayList<>();
+        if(nums.length==1){
+            return list;
+        }
         int a =0;
         while(a<nums.length){
             if(nums[a]==nums[nums[a]-1]){
