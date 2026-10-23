@@ -12,10 +12,6 @@ class Solution {
                     a++;
                     continue;
                 }
-                else if(nums[a]<=0){
-                    a++;
-                    continue;
-                }
                 else{
                     swap(nums,a,nums[a]-1);
                 }
