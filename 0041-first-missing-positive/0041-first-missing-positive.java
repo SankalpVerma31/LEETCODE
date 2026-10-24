@@ -1,8 +1,8 @@
 class Solution {
     public void swap(int[] nums, int a , int b){
-        int temp=nums[a];
+        int temporary=nums[a];
         nums[a]=nums[b];
-        nums[b]=temp;
+        nums[b]=temporary;
     }
     public int firstMissingPositive(int[] nums) {
         int a= 0;
