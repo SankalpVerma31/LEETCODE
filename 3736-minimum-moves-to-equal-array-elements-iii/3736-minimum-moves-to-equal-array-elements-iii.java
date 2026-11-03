@@ -8,7 +8,9 @@ class Solution {
         }
         int count=0;
         for(int i =0;i<nums.length;i++){
-            count+=(max-nums[i]);
+            if(nums[i]<max){
+                count+=(max-nums[i]);
+            }
         }
         return count;
     }
