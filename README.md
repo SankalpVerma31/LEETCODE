@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/SankalpVerma31/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SankalpVerma31/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SankalpVerma31/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SankalpVerma31/LEETCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SankalpVerma31/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SankalpVerma31/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SankalpVerma31/LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SankalpVerma31/LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SankalpVerma31/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SankalpVerma31/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SankalpVerma31/LEETCODE/tree/master/0520-detect-capital) |
