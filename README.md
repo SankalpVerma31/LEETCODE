@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SankalpVerma31/LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SankalpVerma31/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SankalpVerma31/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
