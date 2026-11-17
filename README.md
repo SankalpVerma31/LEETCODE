@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SankalpVerma31/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SankalpVerma31/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/SankalpVerma31/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SankalpVerma31/LEETCODE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/SankalpVerma31/LEETCODE/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SankalpVerma31/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SankalpVerma31/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SankalpVerma31/LEETCODE/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
