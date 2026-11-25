@@ -1,16 +1,11 @@
 class Solution {
     public boolean isToeplitzMatrix(int[][] matrix) {
-        for(int i =0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                if(i==0||j==0){
+        for(int i =1;i<matrix.length;i++){
+            for(int j=1;j<matrix[0].length;j++){
+                if(matrix[i-1][j-1]==matrix[i][j]){
                     continue;
                 }
-                else{
-                    if(matrix[i-1][j-1]==matrix[i][j]){
-                        continue;
-                    }
-                    return false;
-                }
+                return false;
             }
         }
         return true;
