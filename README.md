@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SankalpVerma31/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SankalpVerma31/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/SankalpVerma31/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SankalpVerma31/LEETCODE/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SankalpVerma31/LEETCODE/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
