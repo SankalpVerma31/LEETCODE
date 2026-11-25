@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/SankalpVerma31/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1572-matrix-diagonal-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/SankalpVerma31/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SankalpVerma31/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SankalpVerma31/LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Sorting
