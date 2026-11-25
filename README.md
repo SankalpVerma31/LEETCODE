@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/SankalpVerma31/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/SankalpVerma31/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/SankalpVerma31/LEETCODE/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SankalpVerma31/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/SankalpVerma31/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SankalpVerma31/LEETCODE/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SankalpVerma31/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SankalpVerma31/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SankalpVerma31/LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Sorting
