@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/3033-modify-the-matrix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SankalpVerma31/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SankalpVerma31/LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3248-snake-in-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/3248-snake-in-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SankalpVerma31/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SankalpVerma31/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SankalpVerma31/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/SankalpVerma31/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SankalpVerma31/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/SankalpVerma31/LEETCODE/tree/master/2129-capitalize-the-title) |
+| [3248-snake-in-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0867-transpose-matrix) |
+| [3248-snake-in-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
