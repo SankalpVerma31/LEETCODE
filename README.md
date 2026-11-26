@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SankalpVerma31/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SankalpVerma31/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SankalpVerma31/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SankalpVerma31/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SankalpVerma31/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SankalpVerma31/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/SankalpVerma31/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SankalpVerma31/LEETCODE/tree/master/0867-transpose-matrix) |
+| [3360-stone-removal-game](https://github.com/SankalpVerma31/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SankalpVerma31/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
